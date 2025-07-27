@@ -28,7 +28,7 @@ cd FamilySimulationApi
 dotnet run
 
 📍 Swagger dispo sur : http://localhost:7271/swagger 
-Note pour le swagger
+##### Note pour le swagger
 pour l'auth bien mettre "Bearer {JWT}" sans les {}
 (possiblement le port sera faux, mais dans tout les cas le swagger est lancé directement par le serveur, si ce n'est pas le même nombre il faudra changer dans le front le veryBasicFamilySim\family-sim-ui\src\app.jsx la ligne const API_URL = "https://localhost:7271"; avec le bon port)
 
