@@ -3,15 +3,15 @@ using FamilySimulationApi.Models;
 
 namespace FamilySimulationApi.Services;
 
-public class FamilyService
+public class FamilyService(NameService nameService)
 {
-    private static readonly string[] FirstNames = ["Alex", "Jordan", "Taylor", "Morgan"];
     private static readonly string[] LastNames = ["Smith", "Johnson", "Lee", "Brown"];
     private readonly Random _rand = new();
+    private readonly NameService _nameService = nameService;
 
     public Person GenerateFamily(int generations, int childrenPerFamily, int currentGen = 1)
     {
-        var name = $"{FirstNames[_rand.Next(FirstNames.Length)]} {LastNames[_rand.Next(LastNames.Length)]}";
+        var name = $"{RandomFirstName()} {LastNames[_rand.Next(LastNames.Length)]}";
         var person = new Person { Name = name, Generation = currentGen };
 
         if (generations > 1)
@@ -25,6 +25,12 @@ public class FamilyService
         return person;
     }
 
+    private string RandomFirstName()
+    {
+        var names = _nameService.GetAll().ToList();
+        return names.Count == 0 ? "Unknown" : names[_rand.Next(names.Count)];
+    }
+
     public FamilyResponseDto MapToDto(Person person)
     {
         return new FamilyResponseDto
@@ -35,3 +41,4 @@ public class FamilyService
         };
     }
 }
+

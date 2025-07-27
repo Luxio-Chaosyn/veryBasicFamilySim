@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{8D1E06E6-5514-4CB8-8DA5-CBAA685213A0}|FamilySimulationApi\\FamilySimulationApi.csproj|solutionrelative:familysimulationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8D1E06E6-5514-4CB8-8DA5-CBAA685213A0}|FamilySimulationApi\\FamilySimulationApi.csproj|c:\\users\\lacen\\onedrive\\documents\\github\\verybasicfamilysim\\familysimulationapi\\familysimulationapi\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1E06E6-5514-4CB8-8DA5-CBAA685213A0}|FamilySimulationApi\\FamilySimulationApi.csproj|solutionrelative:familysimulationapi\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1E06E6-5514-4CB8-8DA5-CBAA685213A0}|FamilySimulationApi\\FamilySimulationApi.csproj|c:\\users\\lacen\\onedrive\\documents\\github\\verybasicfamilysim\\familysimulationapi\\familysimulationapi\\services\\familyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1E06E6-5514-4CB8-8DA5-CBAA685213A0}|FamilySimulationApi\\FamilySimulationApi.csproj|solutionrelative:familysimulationapi\\services\\familyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1E06E6-5514-4CB8-8DA5-CBAA685213A0}|FamilySimulationApi\\FamilySimulationApi.csproj|c:\\users\\lacen\\onedrive\\documents\\github\\verybasicfamilysim\\familysimulationapi\\familysimulationapi\\services\\nameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1E06E6-5514-4CB8-8DA5-CBAA685213A0}|FamilySimulationApi\\FamilySimulationApi.csproj|solutionrelative:familysimulationapi\\services\\nameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D1E06E6-5514-4CB8-8DA5-CBAA685213A0}|FamilySimulationApi\\FamilySimulationApi.csproj|c:\\users\\lacen\\onedrive\\documents\\github\\verybasicfamilysim\\familysimulationapi\\familysimulationapi\\controllers\\familycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D1E06E6-5514-4CB8-8DA5-CBAA685213A0}|FamilySimulationApi\\FamilySimulationApi.csproj|solutionrelative:familysimulationapi\\controllers\\familycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,27 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameController.cs",
+              "DocumentMoniker": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Controllers\\NameController.cs",
+              "RelativeDocumentMoniker": "FamilySimulationApi\\Controllers\\NameController.cs",
+              "ToolTip": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Controllers\\NameController.cs",
+              "RelativeToolTip": "FamilySimulationApi\\Controllers\\NameController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:47:54.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\appsettings.json",
-              "RelativeDocumentMoniker": "FamilySimulationApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\appsettings.json",
-              "RelativeToolTip": "FamilySimulationApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-27T07:19:55.9Z"
+              "Title": "FamilyService.cs",
+              "DocumentMoniker": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Services\\FamilyService.cs",
+              "RelativeDocumentMoniker": "FamilySimulationApi\\Services\\FamilyService.cs",
+              "ToolTip": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Services\\FamilyService.cs",
+              "RelativeToolTip": "FamilySimulationApi\\Services\\FamilyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:46:25.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "NameService.cs",
+              "DocumentMoniker": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Services\\NameService.cs",
+              "RelativeDocumentMoniker": "FamilySimulationApi\\Services\\NameService.cs",
+              "ToolTip": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Services\\NameService.cs",
+              "RelativeToolTip": "FamilySimulationApi\\Services\\NameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:45:27.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FamilyController.cs",
               "DocumentMoniker": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Controllers\\FamilyController.cs",
               "RelativeDocumentMoniker": "FamilySimulationApi\\Controllers\\FamilyController.cs",
@@ -70,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Models\\Person.cs",
               "RelativeDocumentMoniker": "FamilySimulationApi\\Models\\Person.cs",
@@ -88,14 +123,30 @@
               "RelativeDocumentMoniker": "FamilySimulationApi\\Program.cs",
               "ToolTip": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Program.cs",
               "RelativeToolTip": "FamilySimulationApi\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T07:07:56.332Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\appsettings.json",
+              "RelativeDocumentMoniker": "FamilySimulationApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\appsettings.json",
+              "RelativeToolTip": "FamilySimulationApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T07:19:55.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Auth\\AuthController.cs",
               "RelativeDocumentMoniker": "FamilySimulationApi\\Auth\\AuthController.cs",
@@ -107,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Auth\\UserService.cs",
               "RelativeDocumentMoniker": "FamilySimulationApi\\Auth\\UserService.cs",
@@ -119,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\LaCen\\OneDrive\\Documents\\GitHub\\veryBasicFamilySim\\FamilySimulationApi\\FamilySimulationApi\\Auth\\JwtSettings.cs",
               "RelativeDocumentMoniker": "FamilySimulationApi\\Auth\\JwtSettings.cs",
